@@ -29,6 +29,7 @@ The analysis focused on several key areas:
 - Product Category Analysis: Determined the most popular product categories and top-selling products during Diwali.
 
 Visualizations:
+
 The following visualizations were created to support the analysis:
 
 - Gender vs. Total Sales: Bar plots showing the distribution of total sales by gender.
