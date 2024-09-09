@@ -1,14 +1,14 @@
 # Diwali-Sales-Analysis
 
-Introduction:
+## Introduction
 
 This project analyzes sales data during the Diwali festival, focusing on understanding customer behavior, sales trends, and product popularity. Diwali is one of the most significant shopping periods in India, making it a crucial time for businesses to analyze and optimize their sales strategies.
 
-Data Source:
+## Data Source
 
 The dataset used in this analysis includes customer demographics, purchase amounts, product categories, and more. The data was collected during the Diwali festival, reflecting a wide range of customer interactions and sales performance.
 
-Data Cleaning:
+## Data Cleaning
 
 The dataset underwent several cleaning steps to ensure accuracy in the analysis:
 
@@ -18,7 +18,7 @@ The dataset underwent several cleaning steps to ensure accuracy in the analysis:
 
 These steps were necessary to prepare the data for meaningful analysis.
 
-Exploratory Data Analysis (EDA):
+## Exploratory Data Analysis (EDA)
 
 The analysis focused on several key areas:
 
@@ -28,7 +28,7 @@ The analysis focused on several key areas:
 - Marital Status & Occupation Analysis: Explored how marital status and occupation influenced purchasing behavior.
 - Product Category Analysis: Determined the most popular product categories and top-selling products during Diwali.
 
-Visualizations:
+## Visualizations
 
 The following visualizations were created to support the analysis:
 
